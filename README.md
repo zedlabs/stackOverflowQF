@@ -6,4 +6,4 @@ finds question depending on tags selected using the stackExchange API
 
 2.Add RoomPL for local storage
 
-3.Qeustions views clickable but sometimes unable to open intent.
+3.Questions views clickable but sometimes unable to open intent.
